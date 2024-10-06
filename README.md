@@ -16,4 +16,7 @@ SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 mill
 * SVM Model predicted correct data & solved questions raised during discussion.
 * Cost was determined.
 
+Note: Run<code> wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"</code> in the terminal to download the csv file required for running Plotly Dash(Spacex_dash_app.py).  
+
+
 
